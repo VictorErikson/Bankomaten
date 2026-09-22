@@ -34,7 +34,7 @@ public class Main {
             this.time = time;
         }
     }
-
+    // Kommentar 2
     public static void showWelcome() {
         System.out.println("--- VÄLKOMMEN TILL BANKOMATEN ---");
     }
